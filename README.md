@@ -1,0 +1,2 @@
+# robocorpse
+An AI robot to detect and harvest detect bodies from the aftermath of disasters. Analysing the composition of the environment around the aftermath, the AI will then use regression to determine the date-of-death and how much decomposition is going on to determine the quality of the body. The robot is a mobile construct, mapping out an area and showing the smell concentration map, allowing humanitarian aid to retrieve and identify the deceased, reducing the wasted rescue efforts to find the missing persons. 
